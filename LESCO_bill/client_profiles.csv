@@ -1,0 +1,110 @@
+user,password,Meter_id,Installation_date,Customer_ID,Lat,Lng,colorBlindFriendly,theme,displayName,Meter_type,City,Link,Lacuna,email,billCount,comparativeStart,notifEnable,notifHour,notifLimit,deviceToken
+demo,demo123,50000,08/01/2023,XYZ,NA,NA,FALSE,default,Demo Data,neubolt,Lahore,,FALSE,,1,0,FALSE,10,0,NA
+ahmad,ahmad123,50002,08/01/2023,XYZ,NA,NA,FALSE,default,Ahmad,neubolt,Lahore,,FALSE,ahmad.nadeem@lums.edu.pk,1,0,FALSE,10,0,d7y_iGiiS_GPoKXcqLyDVU:APA91bGpxjghvkSzJdVgCjE2x_T2oZBGfxdyH_kzH9c1j2Y5eqG5fzEJTWnYyUy1yDRdQPWKiURKjmJDvNJ4z4iIrqpQDNBMA41KkRXI1wbvMCPSEj173UX2x-Az1FBvZthqwtmQHz0Y
+pcpindi,Hussain213,39080; 63392,12/16/2023,2140036353,NA,NA,FALSE,default,Pearl Continental Pindi,egauge,Rawalpindi,,FALSE,saeed.qureshi@hashoohotels.com,1,0,FALSE,10,0,NA
+ppjp5,ppjp5123,50004,08/01/2023,10230766,NA,NA,FALSE,default,Phase 5 Papa John’s,neubolt,Lahore,ppjiq; papajohns; ppjbt; ppjg11isl; ppjp7isl; ppjp2isl; ppjfsd; ppjgujrat; ppjgujranwala; ppjgulberg; ppje11isl,FALSE,tayyab.shafiq@papajohns-group.com,1,10,FALSE,10,0,NA
+ppjiq,ppjiq123,50005,08/03/2023,10286892,NA,NA,FALSE,default,Iqbal Town Papa John’s,neubolt,Lahore,ppjp5; papajohns; ppjbt; ppjg11isl; ppjp7isl; ppjp2isl; ppjfsd; ppjgujrat; ppjgujranwala; ppjgulberg; ppje11isl,FALSE,tayyab.shafiq@papajohns-group.com,1,10,FALSE,10,0,d7y_iGiiS_GPoKXcqLyDVU:APA91bGpxjghvkSzJdVgCjE2x_T2oZBGfxdyH_kzH9c1j2Y5eqG5fzEJTWnYyUy1yDRdQPWKiURKjmJDvNJ4z4iIrqpQDNBMA41KkRXI1wbvMCPSEj173UX2x-Az1FBvZthqwtmQHz0Y
+ppjbt,ppjbt123,50006,08/06/2023,8208889,NA,NA,FALSE,default,Bahria Town Papa John’s,neubolt,Lahore,ppjp5; ppjiq; papajohns; ppjg11isl; ppjp7isl; ppjp2isl; ppjfsd; ppjgujrat; ppjgujranwala; ppjgulberg; ppje11isl,FALSE,tayyab.shafiq@papajohns-group.com,1,10,FALSE,10,0,NA
+ppjg11isl,ppjg11isl123,50007,09/11/2023,XYZ,NA,NA,FALSE,default,G11 Islamabad Papa John’s,neubolt,Islamabad,ppjp5; ppjiq; ppjbt; papajohns; ppjp7isl; ppjp2isl; ppjfsd; ppjgujrat; ppjgujranwala; ppjgulberg; ppje11isl,FALSE,tayyab.shafiq@papajohns-group.com,1,10,FALSE,10,0,NA
+ppjp7isl,ppjp7isl123,50008,09/11/2023,XYZ,NA,NA,FALSE,default,Bahria Town Phase 7 Islamabad Papa Johns,neubolt,Islamabad,ppjp5; ppjiq; ppjbt; papajohns; ppjg11isl; ppjp2isl; ppjfsd; ppjgujrat; ppjgujranwala; ppjgulberg; ppje11isl,FALSE,tayyab.shafiq@papajohns-group.com,1,10,FALSE,10,0,NA
+ppjp2isl,ppjp2isl123,50009,09/12/2023,XYZ,NA,NA,FALSE,default,DHA Phase 2 Islamabad Papa John’s,neubolt,Islamabad,ppjp5; ppjiq; ppjbt; ppjg11isl; ppjp7isl; papajohns; ppjfsd; ppjgujrat; ppjgujranwala; ppjgulberg; ppje11isl,FALSE,tayyab.shafiq@papajohns-group.com,1,10,FALSE,10,0,NA
+papajohns,papajohns123,63380,04/19/2023,XYZ,31.490138,74.414345,FALSE,default,Bhatta Chowk Papa John's,egauge,Lahore,ppjp5; ppjiq; ppjbt; ppjg11isl; ppjp7isl; ppjp2isl; ppjfsd; ppjgujrat; ppjgujranwala; ppjgulberg; ppje11isl,FALSE,tayyab.shafiq@papajohns-group.com,1,10,FALSE,10,0,NA
+ppjfsd,ppjfsd123,63379,10/25/2023,XYZ,NA,NA,FALSE,default,Faisalabad Papa John’s,egauge,Faisalabad,ppjp5; ppjiq; ppjbt; ppjg11isl; ppjp7isl; ppjp2isl; papajohns; ppjgujrat; ppjgujranwala; ppjgulberg; ppje11isl,FALSE,tayyab.shafiq@papajohns-group.com,1,10,FALSE,10,0,NA
+ppjgujrat,ppjgujrat123,50030,12/08/2023,XYZ,NA,NA,FALSE,default,Gujrat Papa John’s,neubolt,Gujrat,ppjp5; ppjiq; ppjbt; ppjg11isl; ppjp7isl; ppjp2isl; papajohns; ppjfsd; ppjgujranwala; ppjgulberg; ppje11isl,FALSE,tayyab.shafiq@papajohns-group.com,1,10,FALSE,10,0,NA
+ppjgujranwala,ppjgujranwala123,50031,12/09/2023,XYZ,NA,NA,FALSE,default,Gujranwala Papa John’s,neubolt,Gujranwala,ppjp5; ppjiq; ppjbt; ppjg11isl; ppjp7isl; ppjp2isl; papajohns; ppjfsd; ppjgujrat; ppjgulberg; ppje11isl,FALSE,tayyab.shafiq@papajohns-group.com,1,10,FALSE,10,0,NA
+ppjgulberg,ppjgulberg123,50032,12/14/2023,XYZ,NA,NA,FALSE,default,Gulberg Papa John’s,neubolt,Lahore,ppjp5; ppjiq; ppjbt; ppjg11isl; ppjp7isl; ppjp2isl; papajohns; ppjfsd; ppjgujrat; ppjgujranwala; ppje11isl,FALSE,tayyab.shafiq@papajohns-group.com,1,10,FALSE,10,0,NA
+ppje11isl,ppje11isl123,50034,01/21/2024,XYZ,NA,NA,FALSE,default,E 11 Papa John’s,neubolt,Islamabad,ppjp5; ppjiq; ppjbt; ppjg11isl; ppjp7isl; ppjp2isl; papajohns; ppjfsd; ppjgujrat; ppjgujranwala; ppjgulberg,FALSE,tayyab.shafiq@papajohns-group.com,1,10,FALSE,10,0,NA
+subway,subway123,50033,12/15/2023,8451044,NA,NA,FALSE,default,Subway Askari 11,neubolt,Lahore,,FALSE,,1,0,FALSE,10,0,NA
+jawa,jawa123,50035,03/08/2024,3001493,NA,NA,FALSE,default,Jawa Foods,neubolt,Lahore,,FALSE,,1,0,FALSE,10,0,NA
+haruto,haruto123,50036,03/12/2024,7048563; 7048562,NA,NA,FALSE,default,Haruto Engineering,neubolt,Lahore,,FALSE,,2,0,FALSE,10,0,eEk8ROqsT8ucVTAsK5Krei:APA91bG03n79vNiLqA4jC_4pIpEryawYeeWhOP4TkWZaJbP2yGutcOmIvKhMGjtE8LdDw6F-3eSaN2JJThexD7ScgvpgnIdjY76Jssem291rH-_rjZGyLVcbKmDSeeSiqazMFTHrHBEk
+napoli,napoli123,50037,03/14/2024,XYZ,NA,NA,FALSE,default,Napoli Restaurant,neubolt,Lahore,,FALSE,,1,0,FALSE,10,0,NA
+akramtannery,akramtannery123,50038,03/16/2024,4000275,NA,NA,FALSE,default,Akram Tannery,neubolt,Lahore,,FALSE,,1,0,FALSE,10,0,NA
+dunya,dunya123,50039,03/18/2024,1000949,NA,NA,FALSE,default,Dunya News,neubolt,Lahore,,FALSE,,1,0,FALSE,10,0,NA
+office,office123,50040,03/25/2024,XYZ,NA,NA,FALSE,default,Office,neubolt,Lahore,,FALSE,,1,0,FALSE,10,0,NA
+ny212p4,ny212p4123,50042,03/29/2024,7380757; 7380630,NA,NA,FALSE,default,Phase 4 NY212,neubolt,Lahore,,FALSE,,2,0,FALSE,10,0,NA
+niazi,1222energy,39093,11/01/2019,08-11516-1069400-U,31.506223,74.338466,FALSE,default,Imran Niazi,egauge,Lahore,,TRUE,,1,0,FALSE,10,0,NA
+naveed,123456789,49912,01/01/2020,07-11563-2581100-U,31.453538,74.445564,FALSE,default,Naveed Arshad,egauge,Lahore,,TRUE,,1,0,FALSE,10,0,NA
+nauman,energynotpower,39082,08/17/2020,14-11542-1312200-U,31.516155,74.349597,FALSE,default,nauman,egauge,Lahore,,TRUE,,1,0,FALSE,10,0,NA
+ahmadusman,engineer123,39061,11/01/2019,13-11561-1705000-U,31.465764,74.408879,FALSE,default,Ahmad Usman,egauge,Lahore,,TRUE,,1,0,FALSE,10,0,NA
+rana,reon1234,39096,10/26/2020,03-11233-0248400-U,31.507011,74.28182,FALSE,default,rana,egauge,Lahore,,TRUE,,1,0,FALSE,10,0,NA
+hassanabbass,hassanabbass123,39077,10/26/2023,XYZ,NA,NA,FALSE,default,Hassan Abbass Khan,egauge,Lahore,,TRUE,,1,0,FALSE,10,0,NA
+najam,najam123,39060,10/26/2023,XYZ,NA,NA,FALSE,default,M Najam-ul-Ain,egauge,Lahore,,TRUE,,1,0,FALSE,10,0,NA
+shayannb,shayannb123,50023,10/30/2023,XYZ,NA,NA,FALSE,default,Shayan Khawar,neubolt,Lahore,,TRUE,,1,0,FALSE,10,0,NA
+atta,atta123,50024,10/30/2023,XYZ,NA,NA,FALSE,default,Atta Ul Haleem,neubolt,Lahore,,TRUE,,1,0,FALSE,10,0,NA
+musharraf,musharraf123,50025,10/30/2023,XYZ,NA,NA,FALSE,default,Musharraf,neubolt,Lahore,,TRUE,,1,0,FALSE,10,0,NA
+aliijaz,aliijaz123,50026,10/30/2023,XYZ,NA,NA,FALSE,default,Ali Ijaz,neubolt,Lahore,,TRUE,,1,0,FALSE,10,0,NA
+imrancheema,imrancheema123,39085,07/01/2019,XYZ,NA,NA,FALSE,default,Dr. Imran Cheema,egauge,Lahore,,TRUE,,1,0,FALSE,10,0,NA
+wasifei,wasifei123,50027,11/15/2023,XYZ,NA,NA,FALSE,default,Wasif Mahmood Tahir,neubolt,Lahore,,FALSE,,1,0,FALSE,10,0,NA
+kiran,kiran123,50028,11/25/2023,XYZ,NA,NA,FALSE,default,Madam Kiran,neubolt,Lahore,,TRUE,,1,0,FALSE,10,0,NA
+mohsin,mohsin123,50041,12/29/2023,9889568,NA,NA,FALSE,default,Mohsin,neubolt,Lahore,,FALSE,,1,0,FALSE,10,0,NA
+ammar,ammar123,50043,04/17/2024,XYZ,NA,NA,FALSE,default,Ammar,neubolt,Lahore,,FALSE,,1,0,FALSE,10,0,NA
+ameeq,ameeq123,50044,04/18/2024,3377173; 3377174,NA,NA,FALSE,default,Ameeq,neubolt,Lahore,,FALSE,,1,0,FALSE,10,0,NA
+wasif,wasif123,50045,04/18/2024,XYZ,NA,NA,FALSE,default,Wasif Mahmood Tahir,neubolt,Lahore,,FALSE,,1,0,FALSE,10,0,NA
+aminaiqbal,aminaiqbal123,39098,7/21/2023,XYZ,35.288497,75.630732,FALSE,default,Amina Iqbal ,egauge,Skardu,,TRUE,,1,0,FALSE,10,0,NA
+pervezrizwan,pervezrizwan123,39101,7/21/2023,XYZ,35.306194,75.621194,FALSE,default,Pervaiz Rizwan,egauge,Skardu,,TRUE,,1,0,FALSE,10,0,NA
+naziahassan,naziahassan123,39062,7/21/2023,XYZ,35.299167,75.704806,FALSE,default,Nazia Hasssan,egauge,Skardu,,TRUE,,1,0,FALSE,10,0,NA
+shoaib,shoaib123,39103,7/21/2023,XYZ,35.277444,75.646056,FALSE,default,Muhammad Shoaib,egauge,Skardu,,TRUE,,1,0,FALSE,10,0,NA
+aminaali,aminaali123,39081,7/21/2023,XYZ,35.284778,75.649833,FALSE,default,Amina Ali,egauge,Skardu,,TRUE,,1,0,FALSE,10,0,NA
+habib,habib123,39068,7/21/2023,XYZ,35.178667,75.906139,FALSE,default,Habib Ur Rehman,egauge,Skardu,,TRUE,,1,0,FALSE,10,0,NA
+naumanjabbar,naumanjabbar123,39095,7/21/2023,XYZ,35.287803,75.63637,FALSE,default,Nauman Jabbar,egauge,Skardu,,TRUE,,1,0,FALSE,10,0,NA
+zakawat,zakawat123,39059,7/21/2023,XYZ,35.293801,75.558473,FALSE,default,Zakawat Hussain,egauge,Skardu,,TRUE,,1,0,FALSE,10,0,NA
+ismailfarooqi,ismailfarooqi123,39067,7/21/2023,XYZ,35.282882,75.640472,FALSE,default,Muhammad Ismail Farooqi,egauge,Skardu,,TRUE,,1,0,FALSE,10,0,NA
+nawaz,nawaz123,39078,7/21/2023,XYZ,35.305194,75.623361,FALSE,default,Muhammad  Nawaz,egauge,Skardu,,TRUE,,1,0,FALSE,10,0,NA
+yaqoobjawad,yaqoobjawad123,39058,7/21/2023,XYZ,35.291668,75.627332,FALSE,default,Muhammad Yaqoob Jawad,egauge,Skardu,,TRUE,,1,0,FALSE,10,0,NA
+rafeykhan,rafekhan123,39051; 39088,08/31/2023,XYZ,24.914488,67.130256,FALSE,default,Rafey Khan,egauge,Karachi,,TRUE,,1,0,FALSE,10,0,NA
+raheelzulfiqar,raheelzulfiqar123,39100,08/31/2023,XYZ,24.829708,67.059638,FALSE,default,Raheel Zulfiqar,egauge,Karachi,,TRUE,,1,0,FALSE,10,0,NA
+yahya,yahya123,49917,08/31/2023,XYZ,24.8017550696289,67.0646699355819,FALSE,default,Yahya,egauge,Karachi,,TRUE,,1,0,FALSE,10,0,NA
+saadshehryar,saadshehryar123,39094,08/31/2023,XYZ,24.788969,67.047836,FALSE,default,Saad Shehryar,egauge,Karachi,,TRUE,,1,0,FALSE,10,0,NA
+fahadjaved,fahadjaved123,49896,08/31/2023,XYZ,24.90213,67.120844,FALSE,default,Fahad Javed,egauge,Karachi,,TRUE,,1,0,FALSE,10,0,NA
+faisal,faisal123,49902,08/31/2023,XYZ,24.876722,67.058632,FALSE,default,Faisal Siddiqui,egauge,Karachi,,TRUE,,1,0,FALSE,10,0,NA
+naseem,naseem123,63388,08/31/2023,XYZ,24.939609,67.179594,FALSE,default,Birgadier Naseem,egauge,Karachi,,TRUE,,1,0,FALSE,10,0,NA
+abidkhan,abidkhan123,49904,08/31/2023,XYZ,24.814806,67.046446,FALSE,default,Abid Khan,egauge,Karachi,,TRUE,,1,0,FALSE,10,0,NA
+shayan,shayan123,49905,08/31/2023,XYZ,24.883039,67.063195,FALSE,default,Shayan Farooq,egauge,Karachi,,TRUE,,1,0,FALSE,10,0,NA
+safiawahab,safiawahab123,49916,08/31/2023,XYZ,24.928603,67.042463,FALSE,default,Safia Wahab,egauge,Karachi,,TRUE,,1,0,FALSE,10,0,NA
+owaisabdullah,owaisabdullah123,49914,08/31/2023,XYZ,24.821962,67.080256,FALSE,default,Owais Abdullah,egauge,Karachi,,TRUE,,1,0,FALSE,10,0,NA
+abdulhameed,abdulhameed123,49915,08/31/2023,XYZ,24.859541,67.201686,FALSE,default,Abdul Hameed,egauge,Karachi,,TRUE,,1,0,FALSE,10,0,NA
+ayyan,ayyan123,63391,08/31/2023,XYZ,24.930169,67.094086,FALSE,default,Ayyan,egauge,Karachi,,TRUE,,1,0,FALSE,10,0,NA
+abdullahhassan,abdullahhassan123,49898,08/31/2023,XYZ,24.957204,67.218251,FALSE,default,Abdullah Hassan,egauge,Karachi,,TRUE,,1,0,FALSE,10,0,NA
+nisarkhan,nisarkhan123,50010,09/18/2023,XYZ,33.620722,73.144944,FALSE,default,Nisar Khan,neubolt,Islamabad,,TRUE,,1,0,FALSE,10,0,NA
+aitzazhussain,aitzazhussain123,63382,09/18/2023,XYZ,33.657759,72.856717,FALSE,default,Aitzaz Hussain,egauge,Islamabad,,TRUE,,1,0,FALSE,10,0,NA
+hassamuddin,hassamuddin123,50012,09/18/2023,XYZ,33.62053,73.10198,FALSE,default,Hassam u’d Din,neubolt,Islamabad,,TRUE,,1,0,FALSE,10,0,NA
+farooq,farooq123,50013,09/18/2023,XYZ,33.67313,73.078304,FALSE,default,Farooq,neubolt,Islamabad,,TRUE,,1,0,FALSE,10,0,NA
+efarooq,efarooq123,63374,09/18/2023,XYZ,33.67313,73.078304,FALSE,default,Farooq,egauge,Islamabad,,TRUE,,1,0,FALSE,10,0,NA
+shehswarmalik,shehswarmalik123,85422,11/06/2023,XYZ,33.577963,73.172494,FALSE,default,Shehswar,egauge,Islamabad,,TRUE,,1,0,FALSE,10,0,NA
+abrarhussain,abrarhussain123,49900,11/06/2023,XYZ,33.583108,73.117905,FALSE,default,Abrar Hussain,egauge,Islamabad,,TRUE,,1,0,FALSE,10,0,NA
+asadanwar,asadanwar123,50018,09/25/2023,XYZ,33.573705,73.136702,FALSE,default,Asad Anwar,neubolt,Islamabad,,TRUE,,1,0,FALSE,10,0,NA
+shaheerali,shaheerali123,39075,11/06/2023,XYZ,33.693097,73.030582,FALSE,default,Shaheer Ali,egauge,Islamabad,,TRUE,,1,0,FALSE,10,0,NA
+abidhussain,abidhussain123,39074,11/06/2023,XYZ,33.658589,73.09765,FALSE,default,Abid Hussain,egauge,Islamabad,,TRUE,,1,0,FALSE,10,0,NA
+majid,majid123,85423,09/26/2023,XYZ,33.683922,73.213676,FALSE,default,Majid Khan,egauge,Islamabad,,TRUE,,1,0,FALSE,10,0,NA
+riyan,riyan123,85424,09/26/2023,XYZ,33.623174,72.916264,FALSE,default,Riyan,egauge,Islamabad,,TRUE,,1,0,FALSE,10,0,NA
+bss002,bss002,50029,12/05/2023,XYZ,NA,NA,FALSE,default,E-Mobility Multan,neubolt,Multan,,FALSE,,1,0,FALSE,10,0,NA
+eiglab,eiglab,50021,09/27/2023,XYZ,NA,NA,FALSE,default,EIG Lab,neubolt,Lahore,,FALSE,,1,0,FALSE,10,0,NA
+eiglabe,eiglabe,63369,09/27/2023,XYZ,NA,NA,FALSE,default,Eig Lab Egauge,egauge,Lahore,,FALSE,,1,0,FALSE,10,0,NA
+atif,atif123,49906,10/02/2023,XYZ,33.961028,71.445573,FALSE,default,Atif,egauge,Peshawar,,TRUE,,1,0,FALSE,10,0,NA
+zahid,zahid123,49907,10/02/2023,XYZ,33.957674,71.444363,FALSE,default,Zahid Khaliq,egauge,Peshawar,,TRUE,,1,0,FALSE,10,0,NA
+ghulamnabi,ghulamnabi123,63376,10/02/2023,XYZ,33.98496758,71.457904,FALSE,default,Ghulam Nabi,egauge,Peshawar,,TRUE,,1,0,FALSE,10,0,NA
+fazli,fazli123,63389,10/02/2023,XYZ,33.9648454240824,71.4417535314198,FALSE,default,Fazli Rabbi,egauge,Peshawar,,TRUE,,1,0,FALSE,10,0,NA
+hariskhan,hariskhan123,63386,10/02/2023,XYZ,33.968538,71.442983,FALSE,default,Haris Khan,egauge,Peshawar,,TRUE,,1,0,FALSE,10,0,NA
+usman,usman123,49910,10/02/2023,XYZ,33.978204,71.437695,FALSE,default,Dr. Muhammad Usman,egauge,Peshawar,,TRUE,,1,0,FALSE,10,0,NA
+amjadislam,amjadislam123,49911,10/02/2023,XYZ,34.055714,71.604038,FALSE,default,Amjad Islam,egauge,Peshawar,,TRUE,,1,0,FALSE,10,0,NA
+muzamilshah,muzamilshah123,50022,10/02/2023,XYZ,34.012562,71.506712,FALSE,default,Muzamil Shah,neubolt,Peshawar,,TRUE,,1,0,FALSE,10,0,NA
+omeriftikhar,omeriftikhar123,63385,10/02/2023,XYZ,33.993857,71.5,FALSE,default,Omer Iftikhar,egauge,Peshawar,,TRUE,,1,0,FALSE,10,0,NA
+iftikharkhan,iftikharkhan123,63381,10/02/2023,XYZ,33.993857,71.499835,FALSE,default,Iftikhar Ahmad Khan,egauge,Peshawar,,TRUE,,1,0,FALSE,10,0,NA
+arifkhattak,arifkhattak123,49903,10/02/2023,XYZ,34.024462,71.456499,FALSE,default,Dr. Arif Khattak,egauge,Peshawar,,TRUE,,1,0,FALSE,10,0,NA
+drmudassar,drmudassar123,49920,11/07/2023,XYZ,34.00283,71.484278,FALSE,default,Dr. Mudassar Habib,egauge,Peshawar,,TRUE,,1,0,FALSE,10,0,NA
+shahkar,shahkar123,63370,11/07/2023,XYZ,34.026901,71.597542,FALSE,default,Shahkar Ahmad Nadeem,egauge,Peshawar,,TRUE,,1,0,FALSE,10,0,NA
+usamaali,usamaali123,49899,10/10/2023,XYZ,30.15592,71.392364,FALSE,default,Syed Usama Ali,egauge,Multan,,TRUE,,1,0,FALSE,10,0,NA
+mukhtar,mukhtar123,49913,10/10/2023,XYZ,30.215088,71.456753,FALSE,default,Muhammad Mukhtar Ali,egauge,Multan,,TRUE,,1,0,FALSE,10,0,NA
+nadeem,nadeem123,63384,10/10/2023,XYZ,30.243975,71.508277,FALSE,default,Mian Nadeem Ahmad,egauge,Multan,,TRUE,,1,0,FALSE,10,0,NA
+bilal,bilal123,63387,10/10/2023,XYZ,30.246884,71.506896,FALSE,default,Mian Bilal Ahmad,egauge,Multan,,TRUE,,1,0,FALSE,10,0,NA
+aitzazahmad,aitzazahmad123,63383,10/10/2023,XYZ,30.246584,71.530961,FALSE,default,Aitzaz Ahmad,egauge,Multan,,TRUE,,1,0,FALSE,10,0,NA
+ahmedkhan,ahmedkhan123,49897; 49908,10/10/2023,XYZ,30.29347,71.483795,FALSE,default,Muhammad Ahmed Khan Khakwani,egauge,Multan,,TRUE,,1,0,FALSE,10,0,NA
+zafar,zafar123,85421,10/10/2023,XYZ,30.255667,71.554305,FALSE,default,Zafar Mahmood Kamran Shamsi,egauge,Multan,,TRUE,,1,0,FALSE,10,0,NA
+drnaveed,drnaveed123,39064; 39079,10/10/2023,XYZ,30.186327,71.430233,FALSE,default,Dr Naveed Arshad,egauge,Multan,,TRUE,,1,0,FALSE,10,0,NA
+ahmedsohail,ahmedsohail123,39102,10/10/2023,XYZ,30.2466639999999,71.5219596355822,FALSE,default,Ahmed Sohail,egauge,Multan,,TRUE,,1,0,FALSE,10,0,NA
+sohaib,sohaib123,39104,10/10/2023,XYZ,30.227332,71.49,FALSE,default,Sohaib Ahmad,egauge,Multan,,TRUE,,1,0,FALSE,10,0,NA
+sameer,sameer123,39049,10/10/2023,XYZ,30.227332,71.48979,FALSE,default,Sameer Ahmad,egauge,Multan,,TRUE,,1,0,FALSE,10,0,NA
+qumait,qumait123,63393,12/30/2023,XYZ,NA,NA,FALSE,default,Qumait Abbass,egauge,Multan,,TRUE,,1,0,FALSE,10,0,NA
+waleed,waleed123,50014,09/18/2023,XYZ,33.690108,73.237742,FALSE,default,Waleed,neubolt,Islamabad,,TRUE,,1,0,FALSE,10,0,NA
+shezan,,,,7501201,,,,,,,Lahore,,,,,,,,,
+shezangulberg,,,,7499942,,,,,,,Lahore,,,,,,,,,
